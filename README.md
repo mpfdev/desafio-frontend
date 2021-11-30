@@ -8,13 +8,12 @@ Essa é a minha solução para o desafio de iniciante do Dev Hall. Abrangendo HT
   - [O Desafio](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Meu-processo](#Meu-processo)
+  - [O que eu aprendi](#O-que-eu-aprendi)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Futuro](#Futuro)
+- [Autor](#autor)
+- [Como instalar](#ComoInstalar)
 
 ## Overview
 
@@ -50,7 +49,7 @@ Aqui estão algumas screenshots do resultado final.
 
 - Live Site URL: [Space Dev Challenge](https://spacedevchallenge.netlify.app/index.html)
 
-## Meu processo
+## Meu-processo
 
 ### Construido utilizando os seguintes principios
 
@@ -62,13 +61,13 @@ Aqui estão algumas screenshots do resultado final.
 - Express-Validator
 - BodyParser
 
-### O que eu aprendi
+### O-que-eu-aprendi
 
 Este desafio em específico teve a parte em fazer as telas responsáveis sem ter nenhum design como referência, além de fazer parte da validação do servidor para o formulário visto as lógicas requisitadas.
 
 Estou na fase do aprendizado onde estou começando a estudar Node.js/Express, então o desafio veio na hora certa, pois pude manter em conjunto o que já vinha estudando com HTML, CSS e JS, e poder pensar também no servidor.
 
-### Para o futuro
+### Futuro
 
 - Certamente trabalhar a questão do backend de forma mais cuidadosa, e melhor tratada.
 - Passar a trabalhar com medidas em rem, e não mais usar px, a fim de deixar a responsividade mais fluída.
