@@ -47,7 +47,7 @@ Aqui estão algumas screenshots do resultado final.
 
 ### Links
 
-- Live Site URL: [Space Dev Challenge](https://spacedevchallenge.netlify.app/index.html)
+- Live Site URL: [Dev Freela](https://desafio-devsfreela.herokuapp.com/)
 
 ## Meu-processo
 
