@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const { body, validationResult } = require('express-validator');
 
 const app = express();
+const PORT = process.env.PORT || 3000;
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
@@ -33,6 +34,6 @@ app.post(
   }
 );
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
   console.log(`Server running!`);
 });
